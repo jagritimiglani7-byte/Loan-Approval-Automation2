@@ -145,10 +145,6 @@ To visualize loan approval data and generate actionable business insights.
 
 ---
 
-### Dashboard
-
-![Dashboard](Dashboard.png)
-
 ## Business Benefits
 
 * Reduces manual effort
