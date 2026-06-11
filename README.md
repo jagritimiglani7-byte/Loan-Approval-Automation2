@@ -1,0 +1,71 @@
+# Loan Approval Automation using n8n
+
+## Project Overview
+
+This project automates the loan approval process using n8n workflow automation. The system evaluates applicant risk levels and automatically sends appropriate email notifications based on the loan assessment.
+
+## Objectives
+
+* Automate loan application processing
+* Classify applicants into risk categories
+* Send automated email notifications
+* Improve decision-making efficiency
+* Visualize loan insights through dashboards
+
+## Tools Used
+
+* n8n
+* Microsoft Excel
+* Gmail Integration
+* Power BI
+
+## Workflow Process
+
+1. Loan application data is stored in Excel.
+2. n8n reads applicant information.
+3. Risk assessment logic categorizes applicants.
+4. Automated emails are generated:
+
+   * Low Risk Approval
+   * Medium Risk Review
+   * High Risk Rejection
+5. Results are visualized using Power BI.
+
+## Project Files
+
+### Workflow
+
+![Workflow](n8n_project.png)
+
+### Loan Application Data
+
+![Data](Google_Sheet.png)
+
+### Low Risk Email
+
+![Low Risk](Low_Risk.jpeg)
+
+### Medium Risk Email
+
+![Medium Risk](Medium_Risk_Alert.jpeg)
+
+### High Risk Email
+
+![High Risk](High_Risk_Alert.jpeg)
+
+### Dashboard
+
+![Dashboard](Dashboard.png)
+
+## Business Benefits
+
+* Reduces manual effort
+* Improves response time
+* Standardizes loan decisions
+* Supports risk management
+* Enhances reporting and monitoring
+
+## Author
+
+Jagriti Miglani
+MBA Finance
